@@ -7,7 +7,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>welcome to spotify</title>
+    <title>welcome to site</title>
   </head>
   <body>
     <div class="inputContainer">
@@ -44,7 +44,7 @@
 
 
 
-      <p><label for="password">conform password</label>
+      <label for="password">conform password</label>
       <input type="password" name="password" value="Password"placeholder="Your Password"></p>
       <button type="submit" name="registerButton">SIGN UP</button>
       </form>
